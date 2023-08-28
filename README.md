@@ -11,4 +11,4 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 
 사용해본 배포 <br>
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Vercel</title><path d="M24 22.525H0l12-21.05 12 21.05z"/></svg>
+<img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
